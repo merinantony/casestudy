@@ -36,7 +36,7 @@ public class Employee {
 	public double getCon() {
 		return con;
 	}
-	public void setCon(double con) {
-		this.con = con;
+	public void setCon(String ac) {
+		this.con = ac;
 	}
 }
